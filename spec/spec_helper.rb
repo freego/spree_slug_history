@@ -77,4 +77,7 @@ RSpec.configure do |config|
 
   config.fail_fast = ENV['FAIL_FAST'] || false
   config.order = "random"
+
+  config.infer_spec_type_from_file_location!
+  config.expose_current_running_example_as :example
 end
