@@ -10,7 +10,7 @@ Add spree_slug_history to your Gemfile:
 
 ```ruby
 gem 'spree_slug_history', github: 'freego/spree_slug_history',
-                          branch: '2-2-stable'
+                          branch: 'X-X-stable'
 ```
 
 Bundle your dependencies and run the installation generator:
