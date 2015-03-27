@@ -1,6 +1,8 @@
 SpreeSlugHistory
 ================
 
+NOTE: This is built-in in recent Spree versions.
+
 Avoids 404's when slugs change, thanks to `friendly_id` history module.
 
 Installation
